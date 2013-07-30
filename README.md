@@ -1,2 +1,2 @@
-ramedellin
+Realidad Aumentada Medellin
 ==========
